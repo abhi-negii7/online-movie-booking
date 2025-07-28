@@ -39,8 +39,8 @@
                     <div class="footer__widget">
                         <h6>LOCATION</h6>
                         <div class="footer__newslatter">
-                            <p>Inox Cinema, Near Upashna Circle, 
-                                Wadhwan,Surendranagar-363020,
+                            <p>Inox Cinema, Near Rajpur Road, 
+                                Dehradun, Uttarakhand
                                
 </p>
                             
@@ -56,7 +56,7 @@
                             <script>
                                 document.write(new Date().getFullYear());
                             </script>-2020 
-                            This project devlope by Gainam Gosalia Mo. 8460502720
+                            This project devlope by Abhishek Negi
                         </p>
                         <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                     </div>
